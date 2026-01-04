@@ -9,7 +9,7 @@
 
 
 [rewrite_local]
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/joker-things/Collection/main/script
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/joker-things/Collection/refs/heads/main/script/168qingduanshi.js
 
 
 [mitm]
